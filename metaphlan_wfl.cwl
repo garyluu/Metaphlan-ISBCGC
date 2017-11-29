@@ -11,8 +11,6 @@ dct:creator:
     foaf:name: "Hsinyi Tsang"
     foaf:mbox: "hsinyi.confidential@nih.gov"
 
-############
-
 inputs:
 
   TARBZFILE:

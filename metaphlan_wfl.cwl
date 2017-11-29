@@ -1,6 +1,16 @@
 cwlVersion: v1.0
 class: Workflow
 
+doc: |
+  # Metaphlan-ISBCGC
+
+  # Overview
+  This is an example of how to add a description to a workflow. This uses markdown and can show things like images and links. 
+
+dct:creator:
+    foaf:name: "Hsinyi Tsang"
+    foaf:mbox: "hsinyi.confidential@nih.gov"
+
 ############
 
 inputs:

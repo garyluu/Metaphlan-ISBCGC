@@ -11,7 +11,7 @@ dct:creator:
     foaf:mbox: "hsinyi.confidential@nih.gov"
 
 class: CommandLineTooll
-baseCommand: [tar, xjf]
+baseCommands: [tar, xjf]
 stdout: $(inputs.unzippedFileName)
 hints:
   - class: DockerRequirement

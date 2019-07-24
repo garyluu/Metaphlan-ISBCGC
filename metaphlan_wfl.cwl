@@ -1,5 +1,5 @@
 cwlVersion: v1.0
-class: Workflow
+class: CommandLineTool
 
 doc: |
   # Metaphlan-ISBCGC

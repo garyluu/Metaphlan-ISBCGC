@@ -10,7 +10,7 @@ dct:creator:
     foaf:name: "Hsinyi Tsang"
     foaf:mbox: "hsinyi.confidential@nih.gov"
 
-class: CommandLineTool
+class: CommandLineTooll
 baseCommand: [tar, xjf]
 stdout: $(inputs.unzippedFileName)
 hints:
